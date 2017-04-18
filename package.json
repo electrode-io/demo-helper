@@ -1,5 +1,5 @@
 {
-  "name": "demo-helper",
+  "name": "electrode-demo-helper",
   "version": "1.0.0",
   "description": "demo-helper for holding common files",
   "main": "index.js",
