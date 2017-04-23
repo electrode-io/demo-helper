@@ -10,7 +10,7 @@ discovery-component is a component playground for developing & demoing electrode
 The easiest way to use demo-helper is to install it from NPM and include it in your own React build process (using Browserify, Webpack, etc).
 
 ```
-npm install spinner --save
+npm install electrode-demo-helper --save
 ```
 
 ## Usage
