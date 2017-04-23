@@ -2,7 +2,7 @@
 
 demo-helper is a module for holding [discovery-components](https://github.com/didi0613/discovery-component) common files.
 
-## [Discovery Component](https://github.com/didi0613/discovery-component)
+## Discovery Component
 
 discovery-component is a component playground for developing & demoing electrode components. It uses Lerna to manage multiple related electrode archetype components.
 
