@@ -1,5 +1,5 @@
-let config = require('./config');
-let archetype = require('./archetype');
+let config = require('./config/default.js');
+let archetype = require('./archetype/config.js');
 
 module.exports = {
   config,
