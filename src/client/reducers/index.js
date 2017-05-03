@@ -4,6 +4,11 @@ const number = (store) => {
   return store || {};
 };
 
+const checkBox = (store) => {
+  return store || {};
+};
+
 export default combineReducers({
-  number
+  number,
+  checkBox
 });
