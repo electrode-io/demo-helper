@@ -1,6 +1,6 @@
 import React from "react";
 import { connect } from "react-redux";
-import { IntlProvider, addLocaleData } from "react-intl";
+import { IntlProvider } from "react-intl";
 
 import {<%= className %>} from "<%= packageName %>";
 
