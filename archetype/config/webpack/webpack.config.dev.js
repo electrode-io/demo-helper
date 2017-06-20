@@ -15,5 +15,5 @@ module.exports = {
       Path.join(repoPackagesDir, "<%= componentName %>/node_modules"),
       <% }); %>
     ]
-}
+  }
 };
