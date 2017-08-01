@@ -1,6 +1,12 @@
 # Demo Helper
 
-demo-helper is a module for holding [discovery-components](https://github.com/didi0613/discovery-component) common files.
+## [Deprecated Warnings]
+
+demo-helper was originally designed for holding new Electrode OSS component common files. The package has been deprecated because we moved files to [Electrode Generators.](https://github.com/electrode-io/electrode/tree/master/packages/generator-electrode)
+
+To checkout the latest Electrode OSS Component, please follow the instructions [here.](https://docs.electrode.io/chapter1/quick-start/start-with-component.html)
+
+------------------------------------------------------------------
 
 ## Discovery Component
 
